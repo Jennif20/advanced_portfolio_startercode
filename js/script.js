@@ -22,8 +22,6 @@
 
 
 
-
-
 // Use Jquery to update your HTML using your object. Don't forget the Document Ready function. 
 
 
